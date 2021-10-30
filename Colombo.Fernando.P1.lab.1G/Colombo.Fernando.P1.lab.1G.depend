@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1635468598 source:c:\users\pepo\desktop\colombo.fernando.p1.lab.1g\fecha.c
+
+1635487800 source:c:\users\pepo\desktop\colombo.fernando.p1.lab.1g\aerolinea.c
+	"aerolinea.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1635524395 c:\users\pepo\desktop\colombo.fernando.p1.lab.1g\datos.h
+
+1635551023 c:\users\pepo\desktop\colombo.fernando.p1.lab.1g\aviones.h
+	"vuelos.h"
+	"tipo.h"
+	"piloto.h"
+	"aerolinea.h"
+
+1635547460 c:\users\pepo\desktop\colombo.fernando.p1.lab.1g\vuelos.h
+	"fecha.h"
+	"destinos.h"
+	"aviones.h"
+	"aerolinea.h"
+	"vuelos.h"
+
+1635524395 c:\users\pepo\desktop\colombo.fernando.p1.lab.1g\aerolinea.h
+
+1635523240 c:\users\pepo\desktop\colombo.fernando.p1.lab.1g\tipo.h
+
+1635523240 c:\users\pepo\desktop\colombo.fernando.p1.lab.1g\destinos.h
+
+1635520275 c:\users\pepo\desktop\colombo.fernando.p1.lab.1g\fecha.h
+
+1635545880 c:\users\pepo\desktop\colombo.fernando.p1.lab.1g\validaciones.h
+	"aviones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1635554106 source:c:\users\pepo\desktop\colombo.fernando.p1.lab.1g\aviones.c
+	"aerolinea.h"
+	"tipo.h"
+	"aviones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+	"vuelos.h"
+	"piloto.h"
+
+1635545550 source:c:\users\pepo\desktop\colombo.fernando.p1.lab.1g\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"aerolinea.h"
+	"destinos.h"
+	"aviones.h"
+	"tipo.h"
+	"fecha.h"
+
+1635547436 source:c:\users\pepo\desktop\colombo.fernando.p1.lab.1g\vuelos.c
+	"vuelos.h"
+	"tipo.h"
+	"aerolinea.h"
+	"destinos.h"
+	"aviones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"validaciones.h"
+	"piloto.h"
+
+1635521367 source:c:\users\pepo\desktop\colombo.fernando.p1.lab.1g\datos.c
+	"aviones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"aerolinea.h"
+	"tipo.h"
+
+1635484460 source:c:\users\pepo\desktop\colombo.fernando.p1.lab.1g\tipo.c
+	"tipo.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1635479518 source:c:\users\pepo\desktop\colombo.fernando.p1.lab.1g\destinos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"destinos.h"
+
+1635554106 source:c:\users\pepo\desktop\colombo.fernando.p1.lab.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"fecha.h"
+	"aerolinea.h"
+	"aviones.h"
+	"tipo.h"
+	"vuelos.h"
+	"destinos.h"
+	"validaciones.h"
+	"datos.h"
+	"piloto.h"
+
+1635487415 c:\users\pepo\desktop\colombo.fernando.p1.lab.1g\vuelo.h
+	"fecha.h"
+	"destinos.h"
+	"aviones.h"
+	"aerolinea.h"
+
+1635550449 c:\users\pepo\desktop\colombo.fernando.p1.lab.1g\piloto.h
+
+1635554244 source:c:\users\pepo\desktop\colombo.fernando.p1.lab.1g\piloto.c
+	"validaciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"piloto.h"
+
